@@ -37,7 +37,7 @@ Portfolio/
 Add your repository link here:
 
 ```text
-[https://github.com/yourusername/repository-name](https://github.com/adityabirajdar05-code/My_Portfolio)
+(https://github.com/adityabirajdar05-code/My_Portfolio)
 ```
 
 ## 👨‍💻 About Me
