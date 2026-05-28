@@ -32,21 +32,12 @@ Portfolio/
 ├── resume.pdf
 └── README.md
 ```
-
-## 💻 Live Demo
-
-Add your GitHub Pages link here:
-
-```text
-https://yourusername.github.io/repository-name/
-```
-
 ## 📌 GitHub Repository
 
 Add your repository link here:
 
 ```text
-https://github.com/yourusername/repository-name
+[https://github.com/yourusername/repository-name](https://github.com/adityabirajdar05-code/My_Portfolio)
 ```
 
 ## 👨‍💻 About Me
@@ -55,9 +46,9 @@ I am a fresher passionate about Software Development, Automation Testing, SDET, 
 
 ## 📧 Contact
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
-* Email: Add your email
+* LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/aditya-birajdar-6433a82a0/)
+* GitHub: [Add your GitHub profile link](https://github.com/adityabirajdar05-code)
+* Email: adityabirajdar05@gmail.com
 
 ## ⭐ Future Improvements
 
